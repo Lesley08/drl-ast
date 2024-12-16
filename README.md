@@ -1,2 +1,2 @@
 # drl-ast
-This is an open source for a paper.
+The full implementation of the code will be made publicly available upon the completion of the peer review process.
